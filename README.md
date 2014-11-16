@@ -1,5 +1,3 @@
-# READ ME
-
-This is the fotogiraffe
+# Image Storing Service -FotoGiraffe
 
 by Jake Hartman, Yu Zhang, Joseph Dunn
