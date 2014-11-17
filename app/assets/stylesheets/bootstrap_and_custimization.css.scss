@@ -1,8 +1,39 @@
-$body-bg:			#ecf0f1;
-$navbar-inverse-bg:   #e67e22;
-$navbar-inverse-link-color: #ecf0f1;
-$btn-primary-bg: #e67e22;
-$jumbotron-bg: #16a085;
-$jumbotron-color: #ecf0f1;
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
+
+$body-bg:											#ecf0f1;
+$font-family-sans-serif: 		  'Yanone Kaffeesatz', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$navbar-height:								45px;
+$navbar-default-bg:   				white;
+$navbar-default-brand-color: 	#f1c40f;
+$brand-primary: 							#f1c40f;
+$jumbotron-bg: 								white;
 
 @import 'bootstrap';
+
+.center{
+	text-align: center;
+}
+
+.navbar-link{
+	font-size: 18px;
+}
+
+.navbar-brand{
+	font-weight: bold;
+	font-size: 250%;
+	text-shadow: 2px 2px 2px black;
+}
+
+.jumbo-fotogiraffe{
+	color: #f1c40f;
+	text-shadow: 2px 2px 2px black;
+}
+
+.panel-title {
+	font-weight: bold;
+	font-size:	 26px;
+}
+
+.panel-body {
+	font-size:	18px;
+}
