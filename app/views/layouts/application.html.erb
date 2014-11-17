@@ -9,7 +9,7 @@
 </head>
 <body>
 
-	<%= render "Layouts/_header.html.erb" %>
+	<%= render :partial => "Layouts/header", formats => :html %>
 	<div class="container">
 		<%= yield %>
 	</div>
