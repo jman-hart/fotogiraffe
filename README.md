@@ -2,7 +2,8 @@
 
 by Jake Hartman, Yu Zhang, Joseph Dunn
 
-Live Demo at: https://fotogiraffe.herokuapp.com
+Live Demo at: https://www.youtube.com/watch?v=ZhwW8zRmaH8&feature=youtu.be
+Live website: fotogiraffe.herokuapp.com
 
 ## How to Use
 
